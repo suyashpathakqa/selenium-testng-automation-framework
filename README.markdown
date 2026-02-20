@@ -204,12 +204,6 @@ Automation_Exercise_Project/
 
 ---
 
-## **📞 Contact**
-
-**For questions or contributions, reach out to Mohamed Elmezayn through LinkedIn: https://www.linkedin.com/in/mohamedelmezayn88/ .**
-
----
-
 **⭐⭐⭐ If you find this project helpful, please give it a star on GitHub. ⭐⭐⭐*
 
-***Last updated: May 31, 2025, 04:12 PM EEST***
+
